@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=gRPC Сервер
+Comment=Запуск фонового gRPC-сервера на порту 5001
+Exec=/opt/myapp/WorkerServicePD
+Icon=network-server
+Terminal=true
+Type=Application
+Categories=Development;
+StartupNotify=false
